@@ -79,7 +79,7 @@ Programa de **7 a 14 dias** que combina:
 ## 📌 Documentos principais
 
 - [Mapa de Habilidades (PDF)](docs/mapa-de-habilidades.pdf)
-- [Etapa 3 — Caminhos de Monetização (detalhado)](docs/etapa-3-monetizacao.md)
+- [Caminhos de Monetização (detalhado)](docs/etapa-3-monetizacao.md)
 
 ---
 
@@ -91,13 +91,14 @@ Programa de **7 a 14 dias** que combina:
 ---
 
 ## 📁 Estrutura do repositório
-
+```
 /
 ├─ README.md
 ├─ docs/
-│ ├─ README.md
-│ ├─ Mapa de habilidades DIO Jonny.pdf
-│ └─ etapa-3-monetizacao.md
+│  ├─ README.md
+│  ├─ mapa-de-habilidades.pdf
+│  └─ etapa-3-monetizacao.md
 └─ templates/
-├─ scripts-desescalada.md
-└─ playbook-amostra-lojas.md
+   ├─ scripts-desescalada.md
+   └─ playbook-amostra-lojas.md
+```
