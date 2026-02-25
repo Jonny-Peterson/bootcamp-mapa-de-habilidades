@@ -76,6 +76,20 @@ Programa de **7 a 14 dias** que combina:
 
 ---
 
+## 📌 Documentos principais
+
+- [Mapa de Habilidades (PDF)](docs/mapa-de-habilidades.pdf)
+- [Etapa 3 — Caminhos de Monetização (detalhado)](docs/etapa-3-monetizacao.md)
+
+---
+
+## 📎 Templates
+
+- [Scripts de Desescalada](templates/scripts-desescalada.md)
+- [Playbook (amostra) para lojas](templates/playbook-amostra-lojas.md)
+
+---
+
 ## 📁 Estrutura do repositório
 
 /
