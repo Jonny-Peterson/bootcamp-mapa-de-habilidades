@@ -75,3 +75,15 @@ Programa de **7 a 14 dias** que combina:
 5. **Aulas/Mentorias:** para donos/gerentes e equipes (online ou presencial)
 
 ---
+
+## 📁 Estrutura do repositório
+
+/
+├─ README.md
+├─ docs/
+│ ├─ README.md
+│ ├─ Mapa de habilidades DIO Jonny.pdf
+│ └─ etapa-3-monetizacao.md
+└─ templates/
+├─ scripts-desescalada.md
+└─ playbook-amostra-lojas.md
