@@ -80,6 +80,7 @@ Programa de **7 a 14 dias** que combina:
 
 - [Mapa de Habilidades (PDF)](docs/mapa-de-habilidades.pdf)
 - [Caminhos de Monetização (detalhado)](docs/etapa-3-monetizacao.md)
+- [Playbook (produto final — PDF)](docs/playbook-anti-cliente-alterado-lojas-v1.pdf)
 
 ---
 
@@ -97,7 +98,8 @@ Programa de **7 a 14 dias** que combina:
 ├─ docs/
 │  ├─ README.md
 │  ├─ mapa-de-habilidades.pdf
-│  └─ etapa-3-monetizacao.md
+│  ├─ etapa-3-monetizacao.md
+│  └─ playbook-anti-cliente-alterado-lojas-v1.pdf
 └─ templates/
    ├─ scripts-desescalada.md
    └─ playbook-amostra-lojas.md
